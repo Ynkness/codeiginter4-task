@@ -125,3 +125,7 @@ nb-configuration.xml
 /phpunit*.xml
 /.phpunit.*.cache
 
+CHANGELOG.md
+package-lock.json
+package.json
+/node_modules
